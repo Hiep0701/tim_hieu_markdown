@@ -179,7 +179,7 @@ add dashes (-) and brackets with a space ([ ]) in front of task list items. To s
 Hình ảnh trong Markdown tương tự như liên kết. Sự khác biệt là:
 - Các dấu ngoặc vuông phải được bắt đầu bằng một dấu chấm than
 - Và bên trong chúng có thể có một số văn bản thay thế. Mô tả về hình ảnh, nó sẽ được hiển thị nếu hình ảnh bị lỗi.
-![sxr155](../image/sxr155.jpg)
+![sxr155](https://user-images.githubusercontent.com/22864889/96217454-d0fd8800-0fac-11eb-9343-e96a975ac3c1.jpg)
 
 ### 9. __HTML nội tuyến__
 
